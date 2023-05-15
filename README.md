@@ -22,7 +22,7 @@
 ### :woman_technologist: &nbsp;About Me :
 
 Self Taught <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from The Big 🍎.
-- 🔭 I’m working as a Program Mananger.
+- 🔭 Working on Product at GitHub.
 - 🌱 Exploring Content Writing.
 - ⚡ In my free time I like to practice ruby and javascript.
 - 📫 How to reach me: 
